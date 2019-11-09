@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Open Weather</string>
+    <string name="try_again_action">Coba Lagi</string>
+    <string name="location_name">Mampang Prapatan</string>
+</resources>
